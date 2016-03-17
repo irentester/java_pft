@@ -88,10 +88,13 @@
       <file leaf-file-name="ContactGreationTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/stqa/pft/addressbook/ContactGreationTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.0911602">
-              <caret line="58" column="7" selection-start-line="58" selection-start-column="7" selection-end-line="58" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.5681234">
+              <caret line="43" column="36" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
               <folding>
                 <element signature="method#setUp#0;class#ContactGreationTest#0" expanded="false" />
+                <element signature="method#login#0;class#ContactGreationTest#0" expanded="false" />
+                <element signature="method#testContactGreation#0;class#ContactGreationTest#0" expanded="false" />
+                <element signature="method#fillContactForm#0;class#ContactGreationTest#0" expanded="false" />
                 <element signature="method#isAlertPresent#0;class#ContactGreationTest#0" expanded="false" />
               </folding>
             </state>
@@ -1415,7 +1418,15 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/stqa/pft/addressbook/ContactGreationTest.java</url>
+          <line>79</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1549,10 +1560,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/stqa/pft/addressbook/ContactGreationTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.0911602">
-          <caret line="58" column="7" selection-start-line="58" selection-start-column="7" selection-end-line="58" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.5681234">
+          <caret line="43" column="36" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
           <folding>
             <element signature="method#setUp#0;class#ContactGreationTest#0" expanded="false" />
+            <element signature="method#login#0;class#ContactGreationTest#0" expanded="false" />
+            <element signature="method#testContactGreation#0;class#ContactGreationTest#0" expanded="false" />
+            <element signature="method#fillContactForm#0;class#ContactGreationTest#0" expanded="false" />
             <element signature="method#isAlertPresent#0;class#ContactGreationTest#0" expanded="false" />
           </folding>
         </state>
